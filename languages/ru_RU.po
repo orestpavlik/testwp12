@@ -1,0 +1,957 @@
+# Translation of Themes - Web Log in Russian
+# This file is distributed under the same license as the Themes - Web Log package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-28 12:35+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Web Log\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Description of the theme
+msgid "Web Log is a clean, minimal and SEO friendly theme which is perfect for writers who need to create personal blog site with simple creative features and effects to make readers feel the pleasure of reading blog posts and articles, Web Log theme Comes with classic styles and will help you create a simple and clean blog, if you are a blogger, then it’s a perfect choice for you if you don’t need to have any experiment to setup your WordPress personal blog, it’s super simple and easy to setup, you will get high quality, responsive, well crafted blog out of the box to make writers only focuses on writing content, and it has great typography to make your fans and followers focus on every word you write. It’s Best Free Themes and Seo Friendly Themes, Work with the most popular page builders as Elementor, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, etc. Demo: https://demo.thememiles.com/web-log"
+msgstr ""
+
+#. Theme Name of the theme
+msgid "Web Log"
+msgstr ""
+
+#: include/tgm-plugin-activation.php:25
+msgid "Getwid – Gutenberg Blocks"
+msgstr "Getwid - блоки Гутенберга"
+
+#: header.php:139
+msgid "Page Not Found: 404"
+msgstr "Ошибка 404 - Страница не найдена"
+
+#: include/customizer.php:62
+msgid "Web Log Theme Options"
+msgstr "Настройки темы"
+
+#: include/customizer.php:47
+msgid "Applied to main color of site."
+msgstr "Применяется к основному цвету сайта."
+
+#: include/customizer.php:46
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Конструктор страниц"
+
+#: include/tgm-plugin-activation.php:19
+msgid "Thememiles Toolset"
+msgstr "Набор инструментов Thememiles"
+
+#: include/customizer.php:91
+msgid "Select Sidebar Options"
+msgstr "Опции сайдбара"
+
+#: include/customizer.php:88
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: include/customizer.php:87
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+#: template-parts/post/content-none.php:34 search.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но нет никаких совпадений. Попробуйте снова с другими ключевыми словами."
+
+#: template-parts/header/breadcrumb.php:799
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:771
+#: template-parts/header/breadcrumb.php:1200
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:770
+#: template-parts/header/breadcrumb.php:826
+#: template-parts/header/breadcrumb.php:1196
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:769
+#: template-parts/header/breadcrumb.php:798
+#: template-parts/header/breadcrumb.php:825
+#: template-parts/header/breadcrumb.php:852
+#: template-parts/header/breadcrumb.php:1192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:753
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:736
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:719
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: template-parts/header/breadcrumb.php:259
+msgid "Week %s"
+msgstr "Недель %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: template-parts/header/breadcrumb.php:257
+msgid "Minute %s"
+msgstr "Минут %s"
+
+#. Translators: %s is the page number.
+#: template-parts/header/breadcrumb.php:255
+msgid "Comment Page %s"
+msgstr "Страница комментариев %s"
+
+#. Translators: %s is the page number.
+#: template-parts/header/breadcrumb.php:253
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query.
+#: template-parts/header/breadcrumb.php:251
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: template-parts/header/breadcrumb.php:249
+msgid "Archives"
+msgstr "Архивы"
+
+#: template-parts/header/breadcrumb.php:248
+msgid "404 Not Found"
+msgstr "404 - Страница не найдена"
+
+#: template-parts/header/breadcrumb.php:247
+msgid "Home"
+msgstr "Главная"
+
+#: template-parts/header/breadcrumb.php:246
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: template-parts/header/breadcrumb.php:245
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: template-parts/footer/site-info.php:27
+msgid " Theme: %1$s by %2$s."
+msgstr ""
+
+#: template-parts/footer/site-info.php:26
+msgid "|"
+msgstr ""
+
+#: template-parts/footer/site-info.php:24
+msgid " Proudly powered by %s "
+msgstr ""
+
+#: template-parts/footer/site-info.php:24
+msgid "https://www.wordpress.org/"
+msgstr ""
+
+#: template-parts/page/content-page.php:23
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/post/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищите. Возможно, поможет поиск."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/post/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/post/content-none.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/post/content.php:63 template-parts/post/single.php:49
+msgid "1 Comment"
+msgstr "1 коментарий"
+
+#: template-parts/post/content.php:61 template-parts/post/single.php:47
+msgid " Comments"
+msgstr " комментария"
+
+#: template-parts/post/content.php:59 template-parts/post/single.php:45
+msgid "No Comments"
+msgstr "Нет коментариев"
+
+#: functions.php:164
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте виджеты здесь для страниц записей"
+
+#: functions.php:162 sidebar.php:12
+msgid "Blog Sidebar"
+msgstr "Сайдбар блога"
+
+#: functions.php:66
+msgid "Social Links Menu"
+msgstr "Меню социальных ссылок"
+
+#: functions.php:65
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: functions.php:64
+msgid "Top Header Menu"
+msgstr "Верхнее меню заголовка"
+
+#: widgets/recent-post-widget.php:131
+msgid "Show Post Date"
+msgstr "Показать дату публикации"
+
+#: widgets/recent-post-widget.php:119
+msgid "Number of posts to show:"
+msgstr "Количество постов для показа:"
+
+#: widgets/recent-post-widget.php:27 widgets/recent-post-widget.php:30
+msgid "TM: Recent Post Widget"
+msgstr "TM: виджет недавних сообщений"
+
+#: widgets/recent-post-widget.php:12
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: widgets/widget-author.php:177
+msgid "Youtube"
+msgstr ""
+
+#: widgets/widget-author.php:168
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/widget-author.php:158
+msgid "Instagram"
+msgstr ""
+
+#: widgets/widget-author.php:147
+msgid "Twitter"
+msgstr ""
+
+#: widgets/widget-author.php:137
+msgid "Facebook"
+msgstr ""
+
+#: widgets/widget-author.php:127
+msgid "Description"
+msgstr "Описание"
+
+#: widgets/widget-author.php:117 widgets/recent-post-widget.php:109
+msgid "Title"
+msgstr "Заголовок"
+
+#: widgets/widget-author.php:114
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: widgets/widget-author.php:113
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: widgets/widget-author.php:113
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: widgets/widget-author.php:99
+msgid "Image"
+msgstr "Изображение"
+
+#: widgets/widget-author.php:10
+msgid "Best displayed in Sidebar."
+msgstr "Лучше всего отображается на боковой панели."
+
+#: widgets/widget-author.php:9
+msgid "TM: Author Widget"
+msgstr "TM: Виджет автора"
+
+#: searchform.php:18
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать:"
+
+#: header.php:135
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: include/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "Определите имя файла значка SVG."
+
+#: include/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "Пожалуйста, определите параметры по умолчанию в виде массива."
+
+#: include/back-compat.php:54
+msgid "web-log requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: include/back-compat.php:33 include/back-compat.php:42
+msgid "web log requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: include/template-tags.php:119
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: include/template-tags.php:91
+msgid "Tags"
+msgstr "Метки"
+
+#: include/template-tags.php:87
+msgid "Categories"
+msgstr "Категории"
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:68
+msgid ", "
+msgstr ""
+
+#. translators: %s: post date
+#: include/template-tags.php:54
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Опубликовано</span> %s"
+
+#: include/customizer.php:694
+msgid "Copyright &copy; All rights reserved."
+msgstr "&copy; Все права защищены."
+
+#: include/customizer.php:685
+msgid "Related Post"
+msgstr "Похожие записи"
+
+#: include/customizer.php:683
+msgid "Read More"
+msgstr "Читать далее"
+
+#: include/customizer.php:545
+msgid "Read More Button Text"
+msgstr "Текст кнопки Читать дальше"
+
+#: include/customizer.php:526
+msgid "Related Posts Text"
+msgstr "Текст связанных сообщений"
+
+#: include/customizer.php:506
+msgid "Hide Related Posts Box"
+msgstr "Скрыть похожие записи"
+
+#: include/customizer.php:492
+msgid "Hide Author Name"
+msgstr "Имя автора"
+
+#: include/customizer.php:477
+msgid "Hide Comment Link"
+msgstr "Спрятать комментарии"
+
+#: include/customizer.php:463
+msgid "Hide Post Navi"
+msgstr "Скрыть навигацию"
+
+#: include/customizer.php:449
+msgid "Hide Tags"
+msgstr "Скрыть теги"
+
+#: include/customizer.php:435
+msgid "Hide Date"
+msgstr "Скрыть дату"
+
+#: include/customizer.php:421
+msgid "Hide Category"
+msgstr "Скрыть категорию"
+
+#: include/customizer.php:344
+msgid "Post Settings"
+msgstr "Настройки записей"
+
+#: include/customizer.php:336
+msgid "Enable"
+msgstr "Включить"
+
+#: include/customizer.php:330
+msgid "Active?"
+msgstr "Активировать?"
+
+#: include/customizer.php:312
+msgid "Back To Top Options"
+msgstr "Настройки кнопки \"Вверх\""
+
+#: include/customizer.php:301
+msgid "Copyright Text"
+msgstr "Текст копирайта"
+
+#: include/customizer.php:283
+msgid "Footer Options"
+msgstr "Настройка подвала"
+
+#: include/customizer.php:271
+msgid "Disable Sidebar on Pages"
+msgstr "Отключить боковую панель на страницах"
+
+#: include/customizer.php:257
+msgid "Disable Sidebar on Archives"
+msgstr "Отключить боковую панель в архивах"
+
+#: include/customizer.php:243
+msgid "Disable Sidebar on Posts"
+msgstr "Отключить боковую панель в записях"
+
+#: include/customizer.php:229
+msgid "Disable Sidebar on Homepage"
+msgstr "Отключить боковую панель на главной странице"
+
+#: include/customizer.php:182
+msgid "List Style Layout [Premium Version]"
+msgstr "Макет стиля списка [Премиум-версия]"
+
+#: include/customizer.php:181
+msgid "Grid Style Layout  [Premium Version]"
+msgstr "Макет стиля сетки [Премиум-версия]"
+
+#: include/customizer.php:180
+msgid "Simple Style Layout"
+msgstr "Макет в простом стиле"
+
+#: include/customizer.php:174
+msgid "Home Style Layout"
+msgstr "Макет главной страницы"
+
+#: include/customizer.php:152
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#: include/customizer.php:145
+msgid "Normal"
+msgstr "Нормальный"
+
+#: include/customizer.php:144 include/customizer.php:335
+msgid "Disable"
+msgstr "Отключить"
+
+#: include/customizer.php:139
+msgid "Breadcrumb Type"
+msgstr "Тип хлебных крошек"
+
+#: include/customizer.php:121
+msgid "Breadcrumb Options"
+msgstr "Параметры хлебных крошек"
+
+#: include/customizer.php:110
+msgid "Show Header - Top"
+msgstr "Показать верхнюю панель хедера"
+
+#: include/customizer.php:71
+msgid "Header Options"
+msgstr "Настройка шапки"
+
+#: include/customizer-pro/class-customize.php:77
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: include/customizer-pro/class-customize.php:76
+msgid "Premium Verison"
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: include/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: include/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/class-tgm-plugin-activation.php:3509
+#: include/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/class-tgm-plugin-activation.php:3509
+#: include/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: include/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: include/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: include/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: include/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: include/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: include/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: include/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: include/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: include/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: install status, 2: update status
+#: include/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#. translators: %s: version number
+#: include/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:1121
+#: include/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:934
+#: include/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: include/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:388
+#: include/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: include/class-tgm-plugin-activation.php:387
+#: include/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:386
+#: include/class-tgm-plugin-activation.php:827
+#: include/class-tgm-plugin-activation.php:2533
+#: include/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: include/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: include/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: include/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: include/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: include/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: include/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: include/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: include/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: include/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: %s: plugin name.
+#: include/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: include/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: include/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, в этом месте ничего не было найдено. Может быть, попробуйте поискать?"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: single.php:29 comments.php:63
+msgid "Next"
+msgstr "Вперёд"
+
+#: single.php:26 comments.php:62
+msgid "Previous"
+msgstr "Назад"
+
+#: comments.php:56
+msgid "Reply"
+msgstr "Ответить"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев на &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Один комментарий на &ldquo;%s&rdquo;"
+
+#. Author URI of the theme
+msgid "http://www.thememiles.com/"
+msgstr ""
+
+#. Author of the theme
+msgid "thememiles"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://www.thememiles.com/themes/web-log"
+msgstr ""
